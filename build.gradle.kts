@@ -45,7 +45,7 @@ allprojects {
     }
 
     dependencies {
-        testImplementation(platform("org.junit:junit-bom:5.11.1"))
+        testImplementation(platform("org.junit:junit-bom:5.11.4"))
         testImplementation("org.junit.jupiter:junit-jupiter-api")
         testImplementation("org.junit.jupiter:junit-jupiter-engine")
         testImplementation("org.junit.jupiter:junit-jupiter-params")
