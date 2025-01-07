@@ -6,6 +6,7 @@ plugins {
     `java-library`
     `java-test-fixtures`
     `jvm-test-suite`
+    id("io.buildnote.buildnote-gradle-plugin") version "0.0.3"
 }
 
 buildscript {
