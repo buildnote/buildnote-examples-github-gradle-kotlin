@@ -1,0 +1,14 @@
+# OS X
+.DS_Store
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+.run/
+
+# Kotlin
+**/build/*
+**/.gradle/
+**/.kotlin/
